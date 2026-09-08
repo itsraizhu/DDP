@@ -40,37 +40,6 @@ Program ini dibuat menggunakan bahasa pemrograman Python dengan alur kerja sebag
 
 ## Screenshot / Output Program
 
-### Output di Terminal
-
-```text
-Batas Nilai Lulus : 65
-Nilai Maksimal    : 100
-Ketik 'selesai' jika sudah selesai.
-Masukkan nilai: 80
-Status: Lulus
-Masukkan nilai: 88
-Status: Lulus
-Masukkan nilai: 23
-Status: Remedi
-Masukkan nilai: 90
-Status: Lulus
-Masukkan nilai: 55
-Status: Remedi
-Masukkan nilai: selesai
-DATA NILAI
-Semua Nilai : [80, 88, 23, 90, 55]
-Lulus       : [80, 88, 90]
-Remedi      : [23, 55]
-Ada nilai yang mau dihapus? (ya/tidak): ya
-Daftar nilai: [80, 88, 23, 90, 55]
-Masukkan nilai yang mau dihapus (atau ketik 'selesai'): 55
-Nilai 55 berhasil dihapus.
-Mau hapus nilai lain? (ya/tidak): tidak
-1. Semua Nilai : [80, 88, 23, 90]
-2. Nilai Lulus : [80, 88, 90]
-3. Nilai Remedi: [23]
-```
-
 ### Screenshot Hasil Eksekusi
 
 ![Screenshot Output](screenshot.png)
